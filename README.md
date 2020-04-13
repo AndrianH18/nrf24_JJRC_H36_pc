@@ -1,4 +1,8 @@
-# nrf24_JJRC_H36_pc
+# nrf24_JJRC_H36_pc (forked)
+
+## Note
+
+This repository is forked from [githubLewis/nrf24_JJRC_H36_pc](https://github.com/githubLewis/nrf24_JJRC_H36_pc). This is for the development of UAV autonomous landing controllable via PC / SBC for EE3080 Design & Innovation Project.
 
 ## Overview
 
